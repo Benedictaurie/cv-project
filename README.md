@@ -34,6 +34,7 @@ cv-project/
 │   └── style.css
 └── images/
     └── profile.jpg
+```
 
 ## Learning Outcomes
 - Master semantic HTML elements
