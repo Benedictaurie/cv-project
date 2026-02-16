@@ -1,4 +1,5 @@
-# Single Page HTML CV 
+# Single Page HTML CV Project from Roadmap.sh
+https://roadmap.sh/projects/single-page-cv
 
 A clean, **semantic HTML-only** single-page Curriculum Vitae. This project demonstrates:
 
@@ -22,17 +23,17 @@ A clean, **semantic HTML-only** single-page Curriculum Vitae. This project demon
 
 ## Project Structure
 
+```text
 cv-project/
 ├── index.html
-├── favicon.ico
 ├── README.md
 ├── LICENSE
-└── assets/
-    ├── css/
-    │   └── style.css
-    └── images/
-        └── profile.jpg
-
+├── favicon.ico
+├── image.png
+├── css/
+│   └── style.css
+└── images/
+    └── profile.jpg
 
 ## Learning Outcomes
 - Master semantic HTML elements
