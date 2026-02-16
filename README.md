@@ -23,14 +23,16 @@ A clean, **semantic HTML-only** single-page Curriculum Vitae. This project demon
 ## Project Structure
 
 cv-project/
-├── index.html # Main CV file
-├── favicon.ico # Browser tab icon 
-├── css/
-│ └── style.css # Styling (next project)
-├── images/
-│ └── profile.jpg # Profile photo
-├── README.md # This file
-└── LICENSE # MIT License
+├── index.html
+├── favicon.ico
+├── README.md
+├── LICENSE
+└── assets/
+    ├── css/
+    │   └── style.css
+    └── images/
+        └── profile.jpg
+
 
 ## Learning Outcomes
 - Master semantic HTML elements
